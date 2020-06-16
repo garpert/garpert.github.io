@@ -1,5 +1,5 @@
 # garpert.github.io
-Jekyll should be here?
-* [workflow]
+Jekyll etshould be here?
+*[workflow]
   *[Common git comands](#making commits)
   
