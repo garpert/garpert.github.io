@@ -1,5 +1,5 @@
 # garpert.github.io
 Jekyll should be here?
-*[workflow]
+* [workflow]
  *[ommon git comands](#making commits)
   
